@@ -10,28 +10,16 @@ title: Glow in the Dark Wall Clock (Lidl Livarno)
     <div class="project-meta">
       <div class="byline">
         By <a href="https://github.com/sbnbob">sbnbob</a> 
-        in <a href="/circuits">Circuits</a> » 
-        <a href="/circuits/clocks">Clocks</a>
       </div>
-      
     </div>
     
-    <div class="actions">
-      <button class="btn">Save PDF</button>
-      <button class="btn">Add to Collection</button>
-      <button class="btn">Favorite</button>
-      <button class="btn">More Options</button>
-    </div>
   </header>
   
   <main class="project-content">
     <div class="gallery">
-      <img src="https://content.instructables.com/F9E/FEDU/M0KJRDFZ/F9EFEDUM0KJRDFZ.jpg?width=270&auto=webp" 
-           alt="Glow in the Dark Wall Clock">
-      <img src="httpscontent.instructables.com/FBS/1373/M0KJR6BI/FBS1373M0KJR6BI.jpg?width=270&auto=webp" 
-           alt="Glow in the Dark Wall Clock">
-      <img src="https://content.instructables.com/F72/UA5U/M0KJR7GR/F72UA5UM0KJR7GR.jpg?width=270&auto=webp" 
-           alt="Glow in the Dark Wall Clock">
+      <img src="https://content.instructables.com/F9E/FEDU/M0KJRDFZ/F9EFEDUM0KJRDFZ.jpg?width=270&auto=webp" alt="Glow in the Dark Wall Clock">
+      <img src="httpscontent.instructables.com/FBS/1373/M0KJR6BI/FBS1373M0KJR6BI.jpg?width=270&auto=webp" alt="Glow in the Dark Wall Clock">
+      <img src="https://content.instructables.com/F72/UA5U/M0KJR7GR/F72UA5UM0KJR7GR.jpg?width=270&auto=webp" alt="Glow in the Dark Wall Clock">
     </div>
     
     <div class="project-steps">
